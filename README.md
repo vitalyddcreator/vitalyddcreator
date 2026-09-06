@@ -4,54 +4,53 @@
 
 <br/>
 
-**[DELAEMDIGITAL.COM](https://delaemdigital.com)** &nbsp;·&nbsp; **[TELEGRAM](https://t.me/vitalycreator)** &nbsp;·&nbsp; **[DD CHANNEL](https://t.me/delaemdigital)** &nbsp;·&nbsp; **[GITHUB ORG](https://github.com/delaemdigital)**
+[**delaemdigital.com**](https://delaemdigital.com) &nbsp;&nbsp;·&nbsp;&nbsp; [**Telegram**](https://t.me/vitalycreator) &nbsp;&nbsp;·&nbsp;&nbsp; [**Delaem Digital**](https://github.com/delaemdigital)
 
 </div>
 
-## Founder building systems, not fragments.
+## I build connected systems that turn attention into clients.
 
-I'm **Vitaly Timoshenko**, Founder & CEO of **[Delaem Digital](https://github.com/delaemdigital)** and architect of **ClientFlow System**.
+I'm **Vitaly Timoshenko**, Founder & CEO of **Delaem Digital** and architect of **ClientFlow System**.
 
-I build AI-native digital systems that connect acquisition, websites, lead generation, CRM, automation, analytics and product infrastructure into one operating loop — so businesses can see where clients come from, how they move through the system and what to improve next.
+Traffic, websites, AI, CRM and analytics should not live as five disconnected tools. I connect them into one operating system for acquisition, qualification, sales and improvement.
 
-My role inside DD: **strategy, ClientFlow architecture, product direction, internal product development, evidence and final quality.**
+**I don't build fragments. I build the system between them.**
 
-<br/>
+---
 
-<img src="assets/clientflow.svg" alt="ClientFlow System — Brand to Improvement" width="100%"/>
+### 01 / Client systems
 
-## Delaem Digital
+Acquisition → website → lead → qualification → CRM → follow-up → analytics.
 
-**Delaem Digital builds digital systems that generate clients and automate business operations.** We connect websites, traffic, lead generation, CRM, automation, AI and analytics into one managed client flow — then measure and improve it.
+### 02 / AI systems
 
-The company builds new systems on itself first, proves them in real operations, then turns the strongest ones into repeatable products.
+Consultants, automations and internal AI workflows that reduce manual work and improve decisions.
 
-<br/>
+### 03 / Product systems
 
-<img src="assets/ecosystem.svg" alt="Delaem Digital product ecosystem" width="100%"/>
+We build inside Delaem Digital first, prove the system in real operations, then productize what survives contact with production.
 
-## What I optimize for
+---
 
-| | |
-|---|---|
-| **Systems over fragments** | Architecture first. Tools second. Every part must belong to one customer and revenue flow. |
-| **Evidence over promises** | Production behavior, analytics, QA and real outcomes matter more than presentation. |
-| **AI as infrastructure** | AI should improve qualification, operations, production and decision-making — not exist as decoration. |
-| **Build → prove → productize** | New DD products are tested internally before they become client-facing systems. |
+## Selected systems
 
-<br/>
+**ClientFlow Growth** — evidence-first lead generation, audits and qualification.  
+**Эфир.** — Distribution & Relationship OS for content, outreach and owned channels.  
+**Витрина.** — ready online stores and commerce infrastructure for businesses.  
+**Симбиоз** — AI-native School Operating System.  
+**Сеть.** — portable personal network platform for experts, teams and business.  
+**Буст. Мастер.** — AI-native computer diagnostics, safe repair and verification.
 
-<img src="assets/operating-model.svg" alt="Delaem Digital operating model" width="100%"/>
+Most production repositories are private by design. The public engineering surface lives inside **[@delaemdigital](https://github.com/delaemdigital)**.
 
-## Current focus
+> **Systems over fragments. Evidence over promises. Production over mockups. AI only where it compounds.**
 
-- **ClientFlow Growth** — evidence-first lead generation, audits and qualification.
-- **DD shared core** — reusable identity, CRM, analytics, support, billing and product infrastructure.
-- **Distribution & Relationship OS** — a unified intelligence layer across owned media, outreach and social channels.
-- **AI-native products** — systems for operations, infrastructure, creative production, commerce and education.
+## Public engineering
+
+[**Symbioz Cursor Factory**](https://github.com/delaemdigital/Symbioz-Cursor-Factory) — public AI-assisted development and visual/product tooling from the Symbioz engineering system.
 
 <details>
-<summary><b>Production stack behind the systems</b></summary>
+<summary><b>Production stack</b></summary>
 
 <br/>
 
@@ -69,23 +68,6 @@ Telegram Bot API · n8n · GitHub · PostHog · Better Stack · Langfuse · Play
 
 </details>
 
-## Public engineering
+## Connect
 
-Most production repositories are private, but the public engineering surface lives inside **[@delaemdigital](https://github.com/delaemdigital)**.
-
-- **[Symbioz Cursor Factory](https://github.com/delaemdigital/Symbioz-Cursor-Factory)** — public AI-assisted development and visual/product tooling from the Symbioz engineering system.
-- **[Delaem Digital Organization](https://github.com/delaemdigital)** — company repositories, product engineering and organization profile.
-
-## Contact
-
-**Website:** [delaemdigital.com](https://delaemdigital.com)  
-**Telegram:** [@vitalycreator](https://t.me/vitalycreator)  
-**Delaem Digital:** [@delaemdigital](https://github.com/delaemdigital)
-
----
-
-<div align="center">
-
-**SYSTEMS → CLIENTS → GROWTH**
-
-</div>
+[**Website**](https://delaemdigital.com) &nbsp;·&nbsp; [**Telegram**](https://t.me/vitalycreator) &nbsp;·&nbsp; [**Delaem Digital on GitHub**](https://github.com/delaemdigital)
