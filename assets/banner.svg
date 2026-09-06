@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="420" viewBox="0 0 1600 420" role="img" aria-labelledby="title desc">
+  <title id="title">Vitaly Timoshenko — Founder, Delaem Digital</title>
+  <desc id="desc">Premium dark Delaem Digital profile banner with ClientFlow system motif.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#05070A"/>
+      <stop offset="0.58" stop-color="#080C12"/>
+      <stop offset="1" stop-color="#05070A"/>
+    </linearGradient>
+    <radialGradient id="blueGlow" cx="82%" cy="42%" r="48%">
+      <stop offset="0" stop-color="#5F8ED8" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#5F8ED8" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="copperGlow" cx="18%" cy="74%" r="36%">
+      <stop offset="0" stop-color="#B8794B" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#B8794B" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#94A3B8" stroke-opacity="0.045" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1600" height="420" rx="28" fill="url(#bg)"/>
+  <rect width="1600" height="420" rx="28" fill="url(#blueGlow)"/>
+  <rect width="1600" height="420" rx="28" fill="url(#copperGlow)"/>
+  <rect width="1600" height="420" rx="28" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1598" height="418" rx="27" fill="none" stroke="#94A3B8" stroke-opacity="0.14"/>
+
+  <g transform="translate(84 72)">
+    <rect x="0" y="0" width="6" height="56" rx="3" fill="#B8794B"/>
+    <text x="28" y="19" fill="#7F8B9C" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" font-weight="600" letter-spacing="4">DELAEM DIGITAL / FOUNDER PROFILE</text>
+
+    <text x="0" y="128" fill="#F5F7FB" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="70" font-weight="800" letter-spacing="-2.5">Vitaly Timoshenko</text>
+    <text x="2" y="178" fill="#B8C1CE" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="28" font-weight="500">Founder · Delaem Digital</text>
+    <text x="2" y="222" fill="#7FA6D6" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" font-weight="600" letter-spacing="2.2">CLIENTFLOW SYSTEM · AI · DIGITAL PRODUCTS</text>
+
+    <g transform="translate(0 274)">
+      <line x1="0" y1="0" x2="612" y2="0" stroke="#94A3B8" stroke-opacity="0.18"/>
+      <circle cx="0" cy="0" r="5" fill="#B8794B"/>
+      <circle cx="204" cy="0" r="5" fill="#5F8ED8"/>
+      <circle cx="408" cy="0" r="5" fill="#5F8ED8"/>
+      <circle cx="612" cy="0" r="5" fill="#6FBF91"/>
+      <text x="0" y="30" fill="#7F8B9C" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="2">IDEA</text>
+      <text x="190" y="30" fill="#7F8B9C" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="2">SYSTEM</text>
+      <text x="386" y="30" fill="#7F8B9C" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="2">PRODUCTION</text>
+      <text x="590" y="30" fill="#7F8B9C" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="2">IMPACT</text>
+    </g>
+  </g>
+
+  <g transform="translate(1050 76)">
+    <path d="M0 220 C110 80 218 48 374 84" fill="none" stroke="#5F8ED8" stroke-opacity="0.28" stroke-width="1.5"/>
+    <path d="M34 260 C168 128 286 120 432 148" fill="none" stroke="#B8794B" stroke-opacity="0.22" stroke-width="1.5"/>
+    <circle cx="54" cy="214" r="8" fill="#080C12" stroke="#5F8ED8" stroke-width="2"/>
+    <circle cx="182" cy="122" r="8" fill="#080C12" stroke="#5F8ED8" stroke-width="2"/>
+    <circle cx="308" cy="98" r="8" fill="#080C12" stroke="#B8794B" stroke-width="2"/>
+    <circle cx="420" cy="148" r="8" fill="#080C12" stroke="#6FBF91" stroke-width="2"/>
+    <text x="12" y="340" fill="#7F8B9C" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="3">BUILD · CONNECT · MEASURE · IMPROVE</text>
+  </g>
+</svg>
