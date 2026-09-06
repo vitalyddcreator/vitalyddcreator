@@ -12,7 +12,7 @@
 
 I'm **Vitaly Timoshenko**, Founder & CEO of **[Delaem Digital](https://github.com/delaemdigital)** and architect of **ClientFlow System**.
 
-I build AI-native digital systems that connect acquisition, websites, lead generation, CRM, automation, analytics and product infrastructure into one operating loop — so business can see where clients come from, how they move through the system and what to improve next.
+I build AI-native digital systems that connect acquisition, websites, lead generation, CRM, automation, analytics and product infrastructure into one operating loop — so businesses can see where clients come from, how they move through the system and what to improve next.
 
 My role inside DD: **strategy, ClientFlow architecture, product direction, internal product development, evidence and final quality.**
 
@@ -22,7 +22,7 @@ My role inside DD: **strategy, ClientFlow architecture, product direction, inter
 
 ## Delaem Digital
 
-**Delaem Digital is an AI-native product & growth company.** We don't treat websites, traffic, CRM, bots and AI as isolated services. We design the complete route from attention to client — then measure and improve it.
+**Delaem Digital builds digital systems that generate clients and automate business operations.** We connect websites, traffic, lead generation, CRM, automation, AI and analytics into one managed client flow — then measure and improve it.
 
 The company builds new systems on itself first, proves them in real operations, then turns the strongest ones into repeatable products.
 
