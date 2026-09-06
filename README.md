@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero-dd.jpg" alt="Vitaly Timoshenko — Founder & CEO, Delaem Digital" width="100%"/>
+<img src="assets/hero-dd.svg" alt="Vitaly Timoshenko — Founder & CEO, Delaem Digital" width="100%"/>
 
 <br/><br/>
 
