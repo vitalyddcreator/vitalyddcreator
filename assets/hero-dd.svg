@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1584" height="528" viewBox="0 0 1584 528" role="img" aria-labelledby="title desc">
+  <title id="title">Vitaly Timoshenko — Founder &amp; CEO, Delaem Digital</title>
+  <desc id="desc">Delaem Digital founder profile hero in black, white and red brand style.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#020202"/>
+      <stop offset="0.55" stop-color="#050505"/>
+      <stop offset="1" stop-color="#020202"/>
+    </linearGradient>
+    <radialGradient id="redGlowLeft" cx="0" cy="100%" r="62%">
+      <stop offset="0" stop-color="#ff1018" stop-opacity="0.20"/>
+      <stop offset="0.42" stop-color="#ff1018" stop-opacity="0.06"/>
+      <stop offset="1" stop-color="#ff1018" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="redGlowRight" cx="100%" cy="0" r="54%">
+      <stop offset="0" stop-color="#ff1018" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#ff1018" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="whiteText" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#e8e8e8"/>
+    </linearGradient>
+    <linearGradient id="redText" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ff1d24"/>
+      <stop offset="1" stop-color="#f00008"/>
+    </linearGradient>
+    <filter id="soft" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+    <style>
+      .display{font-family:'Arial Black',Arial,Helvetica,sans-serif;font-weight:900}
+      .meta{font-family:Arial,Helvetica,sans-serif;font-weight:600;letter-spacing:6px}
+    </style>
+  </defs>
+
+  <rect width="1584" height="528" rx="28" fill="url(#bg)"/>
+  <rect width="1584" height="528" rx="28" fill="url(#redGlowLeft)"/>
+  <rect width="1584" height="528" rx="28" fill="url(#redGlowRight)"/>
+  <ellipse cx="70" cy="568" rx="260" ry="180" fill="#ff0d16" opacity="0.055" filter="url(#soft)"/>
+  <ellipse cx="1580" cy="-40" rx="220" ry="170" fill="#ff0d16" opacity="0.035" filter="url(#soft)"/>
+
+  <rect x="72" y="58" width="56" height="5" rx="2.5" fill="#ff111a"/>
+
+  <text x="444" y="108" class="meta" fill="#b8b8ba" font-size="17">VITALY TIMOSHENKO / FOUNDER &amp; CEO</text>
+
+  <text x="438" y="240" class="display" fill="url(#whiteText)" font-size="112" letter-spacing="-5">Делаем</text>
+  <text x="438" y="355" class="display" fill="url(#redText)" font-size="112" letter-spacing="-5">Диджитал</text>
+
+  <text x="442" y="409" class="meta" fill="#c5c5c7" font-size="17">CLIENTFLOW SYSTEM</text>
+  <circle cx="772" cy="403" r="5" fill="#ff111a"/>
+  <text x="807" y="409" class="meta" fill="#c5c5c7" font-size="17">AI</text>
+  <circle cx="908" cy="403" r="5" fill="#ff111a"/>
+  <text x="944" y="409" class="meta" fill="#c5c5c7" font-size="17">DIGITAL PRODUCTS</text>
+
+  <g transform="translate(1190 460)">
+    <text x="0" y="0" class="meta" fill="#b9b9bc" font-size="14" letter-spacing="4">SYSTEMS</text>
+    <text x="105" y="0" fill="#ff111a" font-family="Arial,Helvetica,sans-serif" font-size="22">→</text>
+    <text x="144" y="0" class="meta" fill="#b9b9bc" font-size="14" letter-spacing="4">CLIENTS</text>
+    <text x="263" y="0" fill="#ff111a" font-family="Arial,Helvetica,sans-serif" font-size="22">→</text>
+    <text x="302" y="0" class="meta" fill="#ffffff" font-size="14" letter-spacing="4">GROWTH</text>
+  </g>
+
+  <rect x="1" y="1" width="1582" height="526" rx="27" fill="none" stroke="#ffffff" stroke-opacity="0.04"/>
+</svg>
