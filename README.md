@@ -39,6 +39,10 @@ The company builds new systems on itself first, proves them in real operations, 
 | **AI as infrastructure** | AI should improve qualification, operations, production and decision-making — not exist as decoration. |
 | **Build → prove → productize** | New DD products are tested internally before they become client-facing systems. |
 
+<br/>
+
+<img src="assets/operating-model.svg" alt="Delaem Digital operating model" width="100%"/>
+
 ## Current focus
 
 - **ClientFlow Growth** — evidence-first lead generation, audits and qualification.
