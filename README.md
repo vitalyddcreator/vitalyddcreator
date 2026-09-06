@@ -12,21 +12,17 @@
 
 I'm **Vitaly Timoshenko**, Founder & CEO of **Delaem Digital** and architect of **ClientFlow System**.
 
-For **8 years in digital**, I've worked across product strategy, websites, funnels, traffic, CRM, AI and automation. The main conclusion is simple: these tools create value only when they work as **one connected client system**.
-
-I don't build a website, launch traffic or add AI as isolated tasks. I design the route that connects them:
+For **8 years in digital**, I've worked across strategy, websites, funnels, traffic, CRM, AI and automation. The main lesson is simple: these tools create real value only when they work as **one connected client system**.
 
 **ATTENTION → TRUST → LEAD → PROCESSING → ANALYTICS → IMPROVEMENT**
 
-The goal is not more digital activity. The goal is a system where the business can see **where clients come from, where they are lost, what happens after the lead and what to improve next**.
+I don't build a website, launch traffic or add AI as isolated tasks. I design the route between them — so a business can see where clients come from, where they are lost, what happens after the lead and what to improve next.
 
 ---
 
 ## ClientFlow System
 
 **ClientFlow System** is my framework for turning disconnected digital tools into a managed customer flow.
-
-It connects:
 
 **Strategy & offer** · **Website** · **Traffic** · **Lead capture** · **Telegram** · **AI** · **CRM** · **Analytics** · **Continuous improvement**
 
@@ -38,14 +34,11 @@ A strong website is not the final product. Traffic is not the final product. AI 
 
 ## What I build
 
-### Client systems
-Acquisition, websites, lead generation, qualification, CRM, follow-up and analytics assembled into one operating loop.
+**Client systems** — acquisition, websites, lead generation, qualification, CRM, follow-up and analytics assembled into one operating loop.
 
-### AI systems
-AI consultants, diagnostics, qualification, internal workflows and automation where AI creates a measurable operational effect.
+**AI systems** — consultants, diagnostics, qualification and internal workflows where AI creates a measurable operational effect.
 
-### Product systems
-Inside Delaem Digital we build on ourselves first, prove the system in real operations, document it and only then turn the strongest solutions into repeatable products.
+**Product systems** — inside Delaem Digital we build on ourselves first, prove the system in real operations, document it and only then turn the strongest solutions into repeatable products.
 
 ---
 
@@ -62,13 +55,13 @@ Most production repositories are **private by design**. Public engineering and r
 
 ---
 
-## Operating principles
+## How I work
 
-**Systems over fragments.** One customer flow instead of a pile of disconnected tools.  
+**Systems over fragments.** One customer flow instead of disconnected tools.  
 **Route before tools.** First design how a person moves from attention to action; then choose the stack.  
-**Traffic into a prepared system.** Do not scale acquisition before the route is ready to convert and process demand.  
+**Traffic into a prepared system.** Do not scale acquisition before the route can convert and process demand.  
 **AI where it compounds.** Qualification, operations, production, analytics and decision support — not decoration.  
-**Evidence over assumptions.** Improve the offer, website, traffic and processing from real behavior and production data.
+**Evidence over assumptions.** Improve from real behavior and production data.
 
 ---
 
