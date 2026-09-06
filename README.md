@@ -2,70 +2,71 @@
 
 <img src="assets/hero-dd.svg" alt="Vitaly Timoshenko — Founder & CEO, Delaem Digital" width="100%"/>
 
-<br/><br/>
+<br/>
 
 [**DELAEM DIGITAL**](https://delaemdigital.com) &nbsp;&nbsp;·&nbsp;&nbsp; [**TELEGRAM**](https://t.me/vitalycreator) &nbsp;&nbsp;·&nbsp;&nbsp; [**GITHUB ORG**](https://github.com/delaemdigital)
 
 </div>
 
-## I build digital systems that generate clients and automate business operations.
+# Vitaly Timoshenko
 
-I'm **Vitaly Timoshenko**, Founder & CEO of **Delaem Digital** and architect of **ClientFlow System**.
+**Founder & CEO of Delaem Digital. Architect of ClientFlow System.**
 
-For **8 years in digital**, I've worked across strategy, websites, funnels, traffic, CRM, AI and automation. The main lesson is simple: these tools create real value only when they work as **one connected client system**.
+I build digital systems that connect **traffic, websites, CRM, AI, automation and analytics** into one managed client flow.
 
-**ATTENTION → TRUST → LEAD → PROCESSING → ANALYTICS → IMPROVEMENT**
+For **8 years in digital**, I’ve worked across strategy, acquisition, product, websites and automation. The main conclusion is simple: businesses do not need more disconnected tools. They need a system where every stage of the client journey works together and can be measured.
 
-I don't build a website, launch traffic or add AI as isolated tasks. I design the route between them — so a business can see where clients come from, where they are lost, what happens after the lead and what to improve next.
+> **BRAND → SITE → TRAFFIC → LEAD → CRM → PROCESSING → ANALYTICS → IMPROVEMENT**
 
 ---
 
 ## ClientFlow System
 
-**ClientFlow System** is my framework for turning disconnected digital tools into a managed customer flow.
+**ClientFlow System** is the core architecture behind Delaem Digital.
 
-**Strategy & offer** · **Website** · **Traffic** · **Lead capture** · **Telegram** · **AI** · **CRM** · **Analytics** · **Continuous improvement**
+We connect the route from first contact to lead processing and measurable improvement — instead of selling a website, traffic, CRM or AI as isolated tasks.
 
-A strong website is not the final product. Traffic is not the final product. AI is not the final product.
-
-**The product is the connected route from first contact to a qualified lead, processing and measurable improvement.**
+The goal is not “more digital”. The goal is a **controlled client acquisition and processing system** that shows what works, where demand is lost and what should be improved next.
 
 ---
 
-## What I build
+## Flagship solutions
 
-**Client systems** — acquisition, websites, lead generation, qualification, CRM, follow-up and analytics assembled into one operating loop.
+### 01 — АПК · Customer Journey Audit
 
-**AI systems** — consultants, diagnostics, qualification and internal workflows where AI creates a measurable operational effect.
+Audit the current customer path and identify weak points across the website, advertising, funnel, lead capture, processing and analytics.
 
-**Product systems** — inside Delaem Digital we build on ourselves first, prove the system in real operations, document it and only then turn the strongest solutions into repeatable products.
+### 02 — СПК · Client Journey Strategy + System Blueprint
 
----
+Design the client route before implementation: strategy, touchpoints, conversion logic, CRM, processing and measurement architecture.
 
-## Selected systems
+### 03 — КМС · Full Marketing System
 
-**ClientFlow Growth** — evidence-first lead generation, audits and qualification.  
-**Эфир.** — Distribution & Relationship OS for content, outreach and owned channels.  
-**Витрина.** — ready online stores and commerce infrastructure for businesses.  
-**Симбиоз** — AI-native School Operating System for experts and online schools.  
-**Сеть.** — portable personal network platform for experts, teams and business.  
-**Буст. Мастер.** — AI-native computer diagnostics, safe repair, verification and rollback.
-
-Most production repositories are **private by design**. Public engineering and reusable tooling live inside **[@delaemdigital](https://github.com/delaemdigital)**.
+Build and operate the growth system end-to-end: acquisition, conversion, CRM, processing, analytics and continuous improvement in one connected architecture.
 
 ---
 
-## How I work
+## My role inside Delaem Digital
 
-**Systems over fragments.** One customer flow instead of disconnected tools.  
-**Route before tools.** First design how a person moves from attention to action; then choose the stack.  
-**Traffic into a prepared system.** Do not scale acquisition before the route can convert and process demand.  
-**AI where it compounds.** Qualification, operations, production, analytics and decision support — not decoration.  
-**Evidence over assumptions.** Improve from real behavior and production data.
+**Strategy** · **ClientFlow architecture** · **Product direction** · **Internal product development** · **Evidence** · **Final quality**
+
+I lead the system design and product layer: what should be built, how the parts connect, what must be measured and what is ready to become a repeatable client solution.
+
+---
+
+## How we work
+
+**Systems over fragments.** One client flow instead of a collection of tools.  
+**Architecture before automation.** First the process, then the technology.  
+**Traffic into a prepared system.** Acquisition scales only when conversion and processing are ready.  
+**AI where it creates operational effect.** Qualification, processing, analytics and production — not decoration.  
+**Evidence over assumptions.** Decisions are based on production behavior and measurable data.
 
 ---
 
 ## Public engineering
+
+Most Delaem Digital production repositories are **private by design**. Public engineering, reusable tooling and open experiments live inside **[@delaemdigital](https://github.com/delaemdigital)**.
 
 [**Symbioz Cursor Factory**](https://github.com/delaemdigital/Symbioz-Cursor-Factory) — public AI-assisted development and visual/product tooling from the Symbioz engineering system.
 
@@ -92,7 +93,7 @@ Telegram Bot API · n8n · GitHub · PostHog · Better Stack · Langfuse · Play
 
 <div align="center">
 
-### SYSTEMS → CLIENTS → GROWTH
+### BUILD THE SYSTEM. MEASURE THE FLOW. IMPROVE WHAT MATTERS.
 
 [**delaemdigital.com**](https://delaemdigital.com) &nbsp;&nbsp;·&nbsp;&nbsp; [**@vitalycreator**](https://t.me/vitalycreator) &nbsp;&nbsp;·&nbsp;&nbsp; [**@delaemdigital**](https://github.com/delaemdigital)
 
