@@ -8,25 +8,15 @@
 
 </div>
 
-# Vitaly Timoshenko
+## Founder & CEO · ClientFlow System
 
-**Founder & CEO of Delaem Digital. Architect of ClientFlow System.**
+I design **client acquisition systems** for businesses that are done buying disconnected websites, traffic, CRM and automation.
 
-I build digital systems that connect **traffic, websites, CRM, AI, automation and analytics** into one managed client flow.
-
-For **8 years in digital**, I’ve worked across strategy, acquisition, product, websites and automation. The main conclusion is simple: businesses do not need more disconnected tools. They need a system where every stage of the client journey works together and can be measured.
+At **Delaem Digital** we connect the entire route into one measurable operating loop:
 
 > **BRAND → SITE → TRAFFIC → LEAD → CRM → PROCESSING → ANALYTICS → IMPROVEMENT**
 
----
-
-## ClientFlow System
-
-**ClientFlow System** is the core architecture behind Delaem Digital.
-
-We connect the route from first contact to lead processing and measurable improvement — instead of selling a website, traffic, CRM or AI as isolated tasks.
-
-The goal is not “more digital”. The goal is a **controlled client acquisition and processing system** that shows what works, where demand is lost and what should be improved next.
+For **8 years in digital**, I’ve worked across strategy, acquisition, product, websites, CRM, AI and automation. My focus now is the architecture between those parts — so the business can see where clients come from, where they are lost and what to improve next.
 
 ---
 
@@ -34,11 +24,11 @@ The goal is not “more digital”. The goal is a **controlled client acquisitio
 
 ### 01 — АПК · Customer Journey Audit
 
-Audit the current customer path and identify weak points across the website, advertising, funnel, lead capture, processing and analytics.
+Find weak points in the current customer path across the website, advertising, funnel, lead capture, processing and analytics.
 
 ### 02 — СПК · Client Journey Strategy + System Blueprint
 
-Design the client route before implementation: strategy, touchpoints, conversion logic, CRM, processing and measurement architecture.
+Design the route before implementation: strategy, touchpoints, conversion logic, CRM, processing and measurement architecture.
 
 ### 03 — КМС · Full Marketing System
 
@@ -46,32 +36,32 @@ Build and operate the growth system end-to-end: acquisition, conversion, CRM, pr
 
 ---
 
-## My role inside Delaem Digital
+## What I own inside Delaem Digital
 
-**Strategy** · **ClientFlow architecture** · **Product direction** · **Internal product development** · **Evidence** · **Final quality**
+**Strategy** · **ClientFlow architecture** · **Product direction** · **Internal products** · **Evidence** · **Final quality**
 
-I lead the system design and product layer: what should be built, how the parts connect, what must be measured and what is ready to become a repeatable client solution.
+I define what should be built, how the parts connect, what must be measured and when a working internal system is ready to become a repeatable client solution.
 
 ---
 
-## How we work
+## Operating principles
 
 **Systems over fragments.** One client flow instead of a collection of tools.  
 **Architecture before automation.** First the process, then the technology.  
 **Traffic into a prepared system.** Acquisition scales only when conversion and processing are ready.  
 **AI where it creates operational effect.** Qualification, processing, analytics and production — not decoration.  
-**Evidence over assumptions.** Decisions are based on production behavior and measurable data.
+**Evidence over assumptions.** Improve from production behavior and measurable data.
 
 ---
 
 ## Public engineering
 
-Most Delaem Digital production repositories are **private by design**. Public engineering, reusable tooling and open experiments live inside **[@delaemdigital](https://github.com/delaemdigital)**.
+Most production repositories are **private by design**. Public engineering and reusable tooling live inside **[@delaemdigital](https://github.com/delaemdigital)**.
 
 [**Symbioz Cursor Factory**](https://github.com/delaemdigital/Symbioz-Cursor-Factory) — public AI-assisted development and visual/product tooling from the Symbioz engineering system.
 
 <details>
-<summary><b>Production stack behind the systems</b></summary>
+<summary><b>Production stack</b></summary>
 
 <br/>
 
@@ -93,7 +83,7 @@ Telegram Bot API · n8n · GitHub · PostHog · Better Stack · Langfuse · Play
 
 <div align="center">
 
-### BUILD THE SYSTEM. MEASURE THE FLOW. IMPROVE WHAT MATTERS.
+### SYSTEMS → CLIENTS → GROWTH
 
 [**delaemdigital.com**](https://delaemdigital.com) &nbsp;&nbsp;·&nbsp;&nbsp; [**@vitalycreator**](https://t.me/vitalycreator) &nbsp;&nbsp;·&nbsp;&nbsp; [**@delaemdigital**](https://github.com/delaemdigital)
 
