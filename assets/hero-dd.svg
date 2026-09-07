@@ -1,34 +1,38 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1584" height="500" viewBox="0 0 1584 500" role="img" aria-labelledby="title desc">
-  <title id="title">Vitaly Timoshenko — Founder &amp; CEO, Delaem Digital</title>
-  <desc id="desc">Minimal Delaem Digital founder banner focused on traffic, sales, systems and continuous development.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1584" height="520" viewBox="0 0 1584 520" role="img" aria-labelledby="title desc">
+  <title id="title">Vitaly Timoshenko — Founder and CEO of Delaem Digital</title>
+  <desc id="desc">Founder profile banner for Delaem Digital and ClientFlow System.</desc>
   <defs>
-    <radialGradient id="vignette" cx="50%" cy="42%" r="72%">
-      <stop offset="0" stop-color="#101010"/>
-      <stop offset="0.58" stop-color="#060606"/>
+    <radialGradient id="glow" cx="78%" cy="44%" r="58%">
+      <stop offset="0" stop-color="#280406"/>
+      <stop offset="0.45" stop-color="#0b0203"/>
       <stop offset="1" stop-color="#000000"/>
     </radialGradient>
-    <linearGradient id="red" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#ff2028"/>
-      <stop offset="1" stop-color="#f00008"/>
+    <linearGradient id="red" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ff222b"/>
+      <stop offset="1" stop-color="#e90008"/>
     </linearGradient>
     <style>
-      .brand{font-family:Arial,Helvetica,sans-serif;font-weight:900;letter-spacing:-5px}
+      .display{font-family:Arial,Helvetica,sans-serif;font-weight:900;letter-spacing:-5px}
       .meta{font-family:Arial,Helvetica,sans-serif;font-weight:700;letter-spacing:5px}
-      .line{font-family:Arial,Helvetica,sans-serif;font-weight:700;letter-spacing:3px}
+      .body{font-family:Arial,Helvetica,sans-serif;font-weight:600;letter-spacing:2px}
     </style>
   </defs>
 
-  <rect width="1584" height="500" rx="26" fill="#000000"/>
-  <rect width="1584" height="500" rx="26" fill="url(#vignette)"/>
+  <rect width="1584" height="520" rx="26" fill="#000000"/>
+  <rect width="1584" height="520" rx="26" fill="url(#glow)"/>
+  <rect x="1" y="1" width="1582" height="518" rx="25" fill="none" stroke="#ffffff" stroke-opacity="0.05"/>
 
-  <text x="792" y="84" text-anchor="middle" class="meta" fill="#9b9b9f" font-size="15">VITALY TIMOSHENKO / FOUNDER &amp; CEO</text>
+  <rect x="70" y="67" width="44" height="4" rx="2" fill="#ff111a"/>
+  <text x="134" y="76" class="meta" fill="#9d9da2" font-size="15">VITALY TIMOSHENKO / FOUNDER &amp; CEO</text>
 
-  <text x="792" y="226" text-anchor="middle" class="brand" fill="#f7f7f7" font-size="118">Делаем</text>
-  <text x="792" y="336" text-anchor="middle" class="brand" fill="url(#red)" font-size="118">Диджитал</text>
+  <text x="70" y="220" class="display" fill="#f5f5f6" font-size="92">BUILDING SYSTEMS</text>
+  <text x="70" y="320" class="display" fill="#f5f5f6" font-size="92">THAT MOVE</text>
+  <text x="70" y="420" class="display" fill="url(#red)" font-size="92">CLIENTS.</text>
 
-  <text x="792" y="398" text-anchor="middle" class="meta" fill="#c2c2c5" font-size="15">CLIENTFLOW SYSTEM</text>
-  <text x="792" y="438" text-anchor="middle" class="line" fill="#85858a" font-size="14">ТРАФИК  /  ПРОДАЖИ  /  СИСТЕМА  /  СОПРОВОЖДЕНИЕ</text>
-
-  <rect x="676" y="464" width="232" height="3" rx="1.5" fill="#ff111a"/>
-  <rect x="1" y="1" width="1582" height="498" rx="25" fill="none" stroke="#ffffff" stroke-opacity="0.035"/>
+  <text x="1110" y="192" class="meta" fill="#ffffff" font-size="20">DELAEM DIGITAL</text>
+  <text x="1110" y="230" class="body" fill="#9a9aa0" font-size="15">CLIENTFLOW SYSTEM</text>
+  <line x1="1110" y1="260" x2="1486" y2="260" stroke="#ffffff" stroke-opacity="0.10"/>
+  <text x="1110" y="308" class="body" fill="#d7d7da" font-size="16">ATTENTION → LEAD → SALE</text>
+  <text x="1110" y="343" class="body" fill="#d7d7da" font-size="16">DATA → IMPROVEMENT</text>
+  <text x="1110" y="415" class="meta" fill="#ff171f" font-size="13">AI · ACQUISITION · CRM · AUTOMATION</text>
 </svg>
