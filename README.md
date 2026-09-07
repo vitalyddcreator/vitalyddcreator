@@ -4,7 +4,9 @@
 
 <br/>
 
-[**DELAEM DIGITAL**](https://delaemdigital.com) &nbsp;&nbsp;·&nbsp;&nbsp; [**TELEGRAM**](https://t.me/vitalycreator) &nbsp;&nbsp;·&nbsp;&nbsp; [**GITHUB ORG**](https://github.com/delaemdigital)
+<a href="https://delaemdigital.com"><img src="assets/link-site.svg" alt="Delaem Digital" width="31%"/></a>
+<a href="https://t.me/vitalycreator"><img src="assets/link-telegram.svg" alt="Telegram" width="31%"/></a>
+<a href="https://github.com/delaemdigital"><img src="assets/link-github.svg" alt="Delaem Digital GitHub" width="31%"/></a>
 
 </div>
 
@@ -135,6 +137,6 @@ Telegram Bot API · n8n · GitHub · PostHog · Better Stack · Langfuse · Play
 
 ### Build the system. Measure the flow. Improve what matters.
 
-[**delaemdigital.com**](https://delaemdigital.com) &nbsp;&nbsp;·&nbsp;&nbsp; [**@vitalycreator**](https://t.me/vitalycreator) &nbsp;&nbsp;·&nbsp;&nbsp; [**@delaemdigital**](https://github.com/delaemdigital)
+**delaemdigital.com · @vitalycreator · @delaemdigital**
 
 </div>
