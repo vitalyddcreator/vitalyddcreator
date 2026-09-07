@@ -8,71 +8,99 @@
 
 </div>
 
-## Founder & CEO — Delaem Digital
+## I build the system between attention and revenue.
 
-I build **digital systems that connect customer acquisition, sales and operations**.
+Most companies do not lack digital tools. They have websites, ads, CRM, messengers, analytics and now AI — but those pieces often operate as separate projects with separate owners.
 
-At **Delaem Digital**, we work around one commercial route: attract the right demand, capture every lead, move it through a controlled sales process, connect the data and keep improving the system after launch.
+At **Delaem Digital**, we turn that fragmented stack into **ClientFlow System**: one measurable operating route from first touch to lead, sales handoff, revenue visibility and continuous improvement.
 
-**TRAFFIC → LEAD → CRM → SALES → REVENUE → ANALYTICS → IMPROVEMENT**
+**ATTENTION → TRUST → LEAD → CRM → SALE → DATA → IMPROVEMENT**
 
-For **8 years in digital**, I’ve worked across strategy, acquisition, websites, CRM, product, AI and automation. Today my focus is the architecture between those layers — **ClientFlow System**.
-
----
-
-## Flagship solutions
-
-<img src="assets/flagships-dd.svg" alt="Delaem Digital flagship solutions — Делаем Трафик, Делаем Продажи, Делаем Систему, Сопровождение" width="100%"/>
-
-<br/>
-
-### 01 — Делаем Трафик
-
-A managed customer-acquisition system: traffic channels, landing routes, lead capture, creative testing and source-to-result analytics. The goal is not traffic volume by itself, but a controlled flow of relevant enquiries.
-
-### 02 — Делаем Продажи
-
-The operating layer after the lead: CRM, pipeline architecture, lead routing, response standards, follow-up, automation and sales analytics. The goal is to stop losing already-created demand between the enquiry and the sale.
-
-### 03 — Делаем Систему
-
-A complete digital / IT system around the customer journey: website, acquisition, CRM, automation, AI where justified, integrations, data and management analytics — designed as one connected operating environment.
-
-### 04 — Сопровождение
-
-Ongoing ownership after launch: monitoring, optimisation, experiments, new integrations and automations, contractor coordination and a continuous development roadmap.
+The point is not to add more tools. The point is to make the existing and necessary ones work as **one commercial system**.
 
 ---
 
-## Long-term operating model
+## Flagship engagements
 
-We are strongest when the relationship continues **after the initial launch**.
+<img src="assets/flagships-dd.svg" alt="Delaem Digital flagship engagements — Client Acquisition, Sales and CRM, Digital System, Continuous Partnership" width="100%"/>
 
-A typical engagement moves through four stages:
+### 01 — Client Acquisition
 
-**Build the acquisition contour → connect sales and CRM → assemble the full digital system → continuously operate and improve it.**
+We build a controlled route for qualified demand: positioning, landing paths, paid acquisition, lead capture, creative testing and source-to-lead analytics.
 
-That means the client keeps one accountable digital partner for the whole commercial system instead of coordinating separate website, advertising, CRM, automation and analytics contractors.
+**Outcome:** traffic enters a system designed to convert and measure it — not a random page.
 
-**The target format is a long-term operating relationship, not a sequence of disconnected one-off deliverables.**
+### 02 — Sales + CRM
+
+We connect what happens after the enquiry: CRM architecture, lead routing, pipeline logic, response standards, follow-up, automation and sales analytics.
+
+**Outcome:** fewer leads disappear between first contact and a commercial decision.
+
+### 03 — Digital System
+
+We assemble the full commercial infrastructure around the customer journey: website, acquisition, CRM, automation, AI where it changes the economics, integrations, data and management analytics.
+
+**Outcome:** one connected operating environment instead of a collection of contractors and disconnected tools.
+
+### 04 — Continuous Partnership
+
+We stay after launch and own the improvement loop: monitoring, optimisation, experiments, new integrations, new automations, contractor coordination and the development roadmap.
+
+**Outcome:** the system keeps getting stronger as real data, customer behaviour and business priorities change.
+
+> **The target relationship is long-term operational ownership — not a sequence of one-off deliverables.**
 
 ---
 
 ## ClientFlow System
 
-**ClientFlow System** is the architecture behind the work:
+ClientFlow is the architecture behind the work.
 
-**Demand → Conversion → Lead → CRM → Processing → Sale → Analytics → Improvement**
+It starts with a simple question: **how does a person move from attention to a real commercial action — and where does that path lose strength?**
 
-We map the actual customer journey, keep what already works and build only the missing layers required for the commercial result. Technology is part of the system, not the product by itself.
+We map that route, keep what already works, rebuild the weak links and measure what happens in production.
+
+**Offer → Website → Acquisition → Lead → CRM → Processing → Sale → Analytics → Improvement**
+
+No website for the sake of a website.  
+No automation before the process is clear.  
+No AI because it looks modern.  
+No traffic into an unprepared system.
+
+---
+
+## Why clients stay
+
+Launch is not the finish line. It is the moment the system starts producing evidence.
+
+Once real traffic and leads enter the flow, we can see what should improve next: the offer, landing experience, traffic mix, lead quality, response speed, follow-up, CRM logic, automation or reporting.
+
+That is why **Continuous Partnership** is a core flagship engagement rather than an after-sales support package.
+
+Delaem Digital is designed to become **one accountable digital partner for the commercial system**, not another contractor responsible for one isolated channel.
 
 ---
 
 ## My role
 
-**Strategy** · **ClientFlow architecture** · **Product direction** · **System design** · **Evidence** · **Final quality**
+I am **Vitaly Timoshenko**, Founder & CEO of **Delaem Digital** and architect of **ClientFlow System**.
 
-I define what should be built, how the parts connect, what must be measured and what the next rational development step is.
+I have spent **8 years in digital** across strategy, acquisition, websites, product, CRM, automation and AI. Today I work at the intersection of **growth, product and engineering**.
+
+My responsibility inside DD is simple:
+
+**Strategy · ClientFlow architecture · Product direction · System design · Evidence · Final quality**
+
+I decide what should be built, how the parts should connect, what must be measured and what the next rational development step is.
+
+---
+
+## Operating principles
+
+**Systems over fragments.** Every component must belong to one customer and revenue flow.  
+**Evidence over promises.** Production behaviour and measurable outcomes matter more than presentation.  
+**AI as infrastructure.** We use AI where it improves qualification, operations, analysis or production — not as decoration.  
+**Build → measure → improve.** The system is expected to evolve after launch.
 
 ---
 
@@ -87,7 +115,7 @@ Most production repositories are **private by design**. Public engineering and r
 
 <br/>
 
-**Product & Growth**  
+**Growth & Product**  
 ClientFlow System · CRM · funnels · lead qualification · revenue analytics · experimentation
 
 **Engineering**  
@@ -105,7 +133,7 @@ Telegram Bot API · n8n · GitHub · PostHog · Better Stack · Langfuse · Play
 
 <div align="center">
 
-**BUILD → MEASURE → IMPROVE**
+### Build the system. Measure the flow. Improve what matters.
 
 [**delaemdigital.com**](https://delaemdigital.com) &nbsp;&nbsp;·&nbsp;&nbsp; [**@vitalycreator**](https://t.me/vitalycreator) &nbsp;&nbsp;·&nbsp;&nbsp; [**@delaemdigital**](https://github.com/delaemdigital)
 
