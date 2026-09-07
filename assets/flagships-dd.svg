@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1584" height="300" viewBox="0 0 1584 300" role="img" aria-labelledby="title desc">
+  <title id="title">Delaem Digital flagship products</title>
+  <desc id="desc">Сеть, Хост, Креатив and Буст Мастер — four flagship Delaem Digital products.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#020202"/>
+      <stop offset="1" stop-color="#070707"/>
+    </linearGradient>
+    <style>
+      .meta{font-family:Arial,Helvetica,sans-serif;font-weight:700;letter-spacing:5px}
+      .name{font-family:Arial,Helvetica,sans-serif;font-weight:800}
+      .desc{font-family:Arial,Helvetica,sans-serif;font-weight:400}
+    </style>
+  </defs>
+
+  <rect width="1584" height="300" rx="24" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1582" height="298" rx="23" fill="none" stroke="#ffffff" stroke-opacity="0.06"/>
+  <rect x="58" y="48" width="42" height="4" rx="2" fill="#ff1018"/>
+  <text x="118" y="57" class="meta" fill="#8d8d92" font-size="15">DELAEM DIGITAL / FLAGSHIP PRODUCTS / 04</text>
+
+  <g transform="translate(58 112)">
+    <text x="0" y="0" class="meta" fill="#ff151d" font-size="13">01</text>
+    <text x="0" y="50" class="name" fill="#ffffff" font-size="42">Сеть.</text>
+    <text x="0" y="84" class="desc" fill="#8f8f94" font-size="17">PERSONAL NETWORK</text>
+  </g>
+
+  <line x1="390" y1="110" x2="390" y2="238" stroke="#ffffff" stroke-opacity="0.08"/>
+
+  <g transform="translate(444 112)">
+    <text x="0" y="0" class="meta" fill="#ff151d" font-size="13">02</text>
+    <text x="0" y="50" class="name" fill="#ffffff" font-size="42">Хост.</text>
+    <text x="0" y="84" class="desc" fill="#8f8f94" font-size="17">INFRASTRUCTURE</text>
+  </g>
+
+  <line x1="778" y1="110" x2="778" y2="238" stroke="#ffffff" stroke-opacity="0.08"/>
+
+  <g transform="translate(832 112)">
+    <text x="0" y="0" class="meta" fill="#ff151d" font-size="13">03</text>
+    <text x="0" y="50" class="name" fill="#ffffff" font-size="42">Креатив.</text>
+    <text x="0" y="84" class="desc" fill="#8f8f94" font-size="17">CREATIVE PRODUCTION</text>
+  </g>
+
+  <line x1="1166" y1="110" x2="1166" y2="238" stroke="#ffffff" stroke-opacity="0.08"/>
+
+  <g transform="translate(1220 112)">
+    <text x="0" y="0" class="meta" fill="#ff151d" font-size="13">04</text>
+    <text x="0" y="50" class="name" fill="#ffffff" font-size="38">Буст. Мастер.</text>
+    <text x="0" y="84" class="desc" fill="#8f8f94" font-size="17">AI COMPUTER CARE</text>
+  </g>
+
+  <rect x="58" y="266" width="1468" height="1" fill="#ff151d" opacity="0.28"/>
+</svg>
