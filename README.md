@@ -4,9 +4,9 @@
 
 <br/>
 
-<a href="https://delaemdigital.com"><img src="assets/link-site.svg" alt="Delaem Digital" width="31%"/></a>
-<a href="https://t.me/vitalycreator"><img src="assets/link-telegram.svg" alt="Telegram" width="31%"/></a>
-<a href="https://github.com/delaemdigital"><img src="assets/link-github.svg" alt="Delaem Digital GitHub" width="31%"/></a>
+<a href="https://delaemdigital.com"><img src="assets/link-site.svg" alt="Delaem Digital" width="230"/></a>
+<a href="https://t.me/vitalycreator"><img src="assets/link-telegram.svg" alt="Telegram" width="230"/></a>
+<a href="https://github.com/delaemdigital"><img src="assets/link-github.svg" alt="Delaem Digital GitHub" width="230"/></a>
 
 </div>
 
