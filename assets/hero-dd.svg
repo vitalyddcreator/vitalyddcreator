@@ -25,9 +25,9 @@
   <rect x="70" y="67" width="44" height="4" rx="2" fill="#ff111a"/>
   <text x="134" y="76" class="meta" fill="#9d9da2" font-size="15">VITALY TIMOSHENKO / FOUNDER &amp; CEO</text>
 
-  <text x="70" y="220" class="display" fill="#f5f5f6" font-size="92">BUILDING SYSTEMS</text>
-  <text x="70" y="320" class="display" fill="#f5f5f6" font-size="92">THAT MOVE</text>
-  <text x="70" y="420" class="display" fill="url(#red)" font-size="92">CLIENTS.</text>
+  <text x="70" y="214" class="display" fill="#f5f5f6" font-size="82">BUILDING THE SYSTEM</text>
+  <text x="70" y="310" class="display" fill="#f5f5f6" font-size="82">BETWEEN ATTENTION</text>
+  <text x="70" y="406" class="display" fill="url(#red)" font-size="82">AND REVENUE.</text>
 
   <text x="1110" y="192" class="meta" fill="#ffffff" font-size="20">DELAEM DIGITAL</text>
   <text x="1110" y="230" class="body" fill="#9a9aa0" font-size="15">CLIENTFLOW SYSTEM</text>
