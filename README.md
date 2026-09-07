@@ -22,6 +22,10 @@ For **8 years in digital**, I’ve worked across strategy, acquisition, product,
 
 ## Flagship products
 
+<img src="assets/flagships-dd.svg" alt="Delaem Digital flagship products — Сеть, Хост, Креатив, Буст Мастер" width="100%"/>
+
+<br/>
+
 **Сеть.** — portable personal network for experts, teams and businesses.  
 **Хост.** — Telegram-first infrastructure for VPS, servers and domains with automated provisioning and support.  
 **Креатив.** — advertising creative production from brief and strategy to generation, quality control, revisions and delivery.  
