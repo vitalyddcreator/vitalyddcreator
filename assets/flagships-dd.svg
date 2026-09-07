@@ -1,52 +1,52 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1584" height="300" viewBox="0 0 1584 300" role="img" aria-labelledby="title desc">
-  <title id="title">Delaem Digital flagship solutions</title>
-  <desc id="desc">Делаем Трафик, Делаем Продажи, Делаем Систему and Сопровождение — four flagship Delaem Digital commercial solutions.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1584" height="310" viewBox="0 0 1584 310" role="img" aria-labelledby="title desc">
+  <title id="title">Delaem Digital flagship engagements</title>
+  <desc id="desc">Client Acquisition, Sales and CRM, Digital System, and Continuous Partnership.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#020202"/>
+      <stop offset="0" stop-color="#010101"/>
       <stop offset="1" stop-color="#080808"/>
     </linearGradient>
     <style>
       .meta{font-family:Arial,Helvetica,sans-serif;font-weight:700;letter-spacing:4px}
-      .name{font-family:Arial,Helvetica,sans-serif;font-weight:800}
-      .desc{font-family:Arial,Helvetica,sans-serif;font-weight:400;letter-spacing:1px}
+      .name{font-family:Arial,Helvetica,sans-serif;font-weight:850;letter-spacing:-1px}
+      .desc{font-family:Arial,Helvetica,sans-serif;font-weight:500;letter-spacing:1px}
     </style>
   </defs>
 
-  <rect width="1584" height="300" rx="24" fill="url(#bg)"/>
-  <rect x="1" y="1" width="1582" height="298" rx="23" fill="none" stroke="#ffffff" stroke-opacity="0.07"/>
-  <rect x="58" y="47" width="42" height="4" rx="2" fill="#ff1018"/>
-  <text x="118" y="57" class="meta" fill="#8f8f94" font-size="15">DELAEM DIGITAL / FLAGSHIP SOLUTIONS / 04</text>
+  <rect width="1584" height="310" rx="24" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1582" height="308" rx="23" fill="none" stroke="#ffffff" stroke-opacity="0.07"/>
+  <rect x="58" y="45" width="42" height="4" rx="2" fill="#ff111a"/>
+  <text x="118" y="56" class="meta" fill="#8f8f94" font-size="15">DELAEM DIGITAL / FLAGSHIP ENGAGEMENTS / 04</text>
 
   <g transform="translate(58 112)">
-    <text x="0" y="0" class="meta" fill="#ff151d" font-size="13">01</text>
-    <text x="0" y="48" class="name" fill="#ffffff" font-size="34">Делаем Трафик</text>
-    <text x="0" y="82" class="desc" fill="#8f8f94" font-size="15">CLIENT ACQUISITION</text>
+    <text x="0" y="0" class="meta" fill="#ff171f" font-size="13">01</text>
+    <text x="0" y="48" class="name" fill="#ffffff" font-size="31">CLIENT ACQUISITION</text>
+    <text x="0" y="84" class="desc" fill="#96969b" font-size="15">BUILD THE FLOW</text>
   </g>
 
-  <line x1="390" y1="108" x2="390" y2="238" stroke="#ffffff" stroke-opacity="0.08"/>
+  <line x1="390" y1="108" x2="390" y2="245" stroke="#ffffff" stroke-opacity="0.08"/>
 
   <g transform="translate(444 112)">
-    <text x="0" y="0" class="meta" fill="#ff151d" font-size="13">02</text>
-    <text x="0" y="48" class="name" fill="#ffffff" font-size="34">Делаем Продажи</text>
-    <text x="0" y="82" class="desc" fill="#8f8f94" font-size="15">SALES + CRM</text>
+    <text x="0" y="0" class="meta" fill="#ff171f" font-size="13">02</text>
+    <text x="0" y="48" class="name" fill="#ffffff" font-size="31">SALES + CRM</text>
+    <text x="0" y="84" class="desc" fill="#96969b" font-size="15">CONTROL THE HANDOFF</text>
   </g>
 
-  <line x1="778" y1="108" x2="778" y2="238" stroke="#ffffff" stroke-opacity="0.08"/>
+  <line x1="778" y1="108" x2="778" y2="245" stroke="#ffffff" stroke-opacity="0.08"/>
 
   <g transform="translate(832 112)">
-    <text x="0" y="0" class="meta" fill="#ff151d" font-size="13">03</text>
-    <text x="0" y="48" class="name" fill="#ffffff" font-size="34">Делаем Систему</text>
-    <text x="0" y="82" class="desc" fill="#8f8f94" font-size="15">DIGITAL / IT SYSTEM</text>
+    <text x="0" y="0" class="meta" fill="#ff171f" font-size="13">03</text>
+    <text x="0" y="48" class="name" fill="#ffffff" font-size="31">DIGITAL SYSTEM</text>
+    <text x="0" y="84" class="desc" fill="#96969b" font-size="15">CONNECT THE BUSINESS</text>
   </g>
 
-  <line x1="1166" y1="108" x2="1166" y2="238" stroke="#ffffff" stroke-opacity="0.08"/>
+  <line x1="1166" y1="108" x2="1166" y2="245" stroke="#ffffff" stroke-opacity="0.08"/>
 
   <g transform="translate(1220 112)">
-    <text x="0" y="0" class="meta" fill="#ff151d" font-size="13">04</text>
-    <text x="0" y="48" class="name" fill="#ffffff" font-size="34">Сопровождение</text>
-    <text x="0" y="82" class="desc" fill="#8f8f94" font-size="15">CONTINUOUS DEVELOPMENT</text>
+    <text x="0" y="0" class="meta" fill="#ff171f" font-size="13">04</text>
+    <text x="0" y="48" class="name" fill="#ffffff" font-size="29">CONTINUOUS PARTNERSHIP</text>
+    <text x="0" y="84" class="desc" fill="#96969b" font-size="15">OPERATE + IMPROVE</text>
   </g>
 
-  <rect x="58" y="266" width="1468" height="1" fill="#ff151d" opacity="0.3"/>
+  <rect x="58" y="272" width="1468" height="1" fill="#ff171f" opacity="0.34"/>
 </svg>
