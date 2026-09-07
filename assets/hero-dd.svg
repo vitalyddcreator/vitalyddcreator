@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1584" height="500" viewBox="0 0 1584 500" role="img" aria-labelledby="title desc">
   <title id="title">Vitaly Timoshenko — Founder &amp; CEO, Delaem Digital</title>
-  <desc id="desc">Minimal Delaem Digital founder banner in black, white and red.</desc>
+  <desc id="desc">Minimal Delaem Digital founder banner focused on traffic, sales, systems and continuous development.</desc>
   <defs>
     <radialGradient id="vignette" cx="50%" cy="42%" r="72%">
       <stop offset="0" stop-color="#101010"/>
@@ -14,19 +14,21 @@
     <style>
       .brand{font-family:Arial,Helvetica,sans-serif;font-weight:900;letter-spacing:-5px}
       .meta{font-family:Arial,Helvetica,sans-serif;font-weight:700;letter-spacing:5px}
+      .line{font-family:Arial,Helvetica,sans-serif;font-weight:700;letter-spacing:3px}
     </style>
   </defs>
 
   <rect width="1584" height="500" rx="26" fill="#000000"/>
   <rect width="1584" height="500" rx="26" fill="url(#vignette)"/>
 
-  <text x="792" y="92" text-anchor="middle" class="meta" fill="#9b9b9f" font-size="15">VITALY TIMOSHENKO / FOUNDER &amp; CEO</text>
+  <text x="792" y="84" text-anchor="middle" class="meta" fill="#9b9b9f" font-size="15">VITALY TIMOSHENKO / FOUNDER &amp; CEO</text>
 
-  <text x="792" y="242" text-anchor="middle" class="brand" fill="#f7f7f7" font-size="122">Делаем</text>
-  <text x="792" y="354" text-anchor="middle" class="brand" fill="url(#red)" font-size="122">Диджитал</text>
+  <text x="792" y="226" text-anchor="middle" class="brand" fill="#f7f7f7" font-size="118">Делаем</text>
+  <text x="792" y="336" text-anchor="middle" class="brand" fill="url(#red)" font-size="118">Диджитал</text>
 
-  <text x="792" y="422" text-anchor="middle" class="meta" fill="#c2c2c5" font-size="16">CLIENTFLOW SYSTEM</text>
+  <text x="792" y="398" text-anchor="middle" class="meta" fill="#c2c2c5" font-size="15">CLIENTFLOW SYSTEM</text>
+  <text x="792" y="438" text-anchor="middle" class="line" fill="#85858a" font-size="14">ТРАФИК  /  ПРОДАЖИ  /  СИСТЕМА  /  СОПРОВОЖДЕНИЕ</text>
 
-  <rect x="676" y="453" width="232" height="3" rx="1.5" fill="#ff111a"/>
+  <rect x="676" y="464" width="232" height="3" rx="1.5" fill="#ff111a"/>
   <rect x="1" y="1" width="1582" height="498" rx="25" fill="none" stroke="#ffffff" stroke-opacity="0.035"/>
 </svg>
