@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1584" height="310" viewBox="0 0 1584 310" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1584" height="560" viewBox="0 0 1584 560" role="img" aria-labelledby="title desc">
   <title id="title">Delaem Digital flagship solutions</title>
   <desc id="desc">Делаем Трафик, Делаем Продажи, Делаем Систему and Сопровождение.</desc>
   <defs>
@@ -8,45 +8,42 @@
     </linearGradient>
     <style>
       .meta{font-family:Arial,Helvetica,sans-serif;font-weight:700;letter-spacing:4px}
-      .name{font-family:Arial,Helvetica,sans-serif;font-weight:850;letter-spacing:-1px}
-      .desc{font-family:Arial,Helvetica,sans-serif;font-weight:500;letter-spacing:1px}
+      .name{font-family:Arial,Helvetica,sans-serif;font-weight:900;letter-spacing:-1px}
+      .desc{font-family:Arial,Helvetica,sans-serif;font-weight:600;letter-spacing:1.2px}
     </style>
   </defs>
 
-  <rect width="1584" height="310" rx="24" fill="url(#bg)"/>
-  <rect x="1" y="1" width="1582" height="308" rx="23" fill="none" stroke="#ffffff" stroke-opacity="0.07"/>
-  <rect x="58" y="45" width="42" height="4" rx="2" fill="#ff111a"/>
-  <text x="118" y="56" class="meta" fill="#8f8f94" font-size="15">DELAEM DIGITAL / FLAGSHIP SOLUTIONS / 04</text>
+  <rect width="1584" height="560" rx="24" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1582" height="558" rx="23" fill="none" stroke="#ffffff" stroke-opacity="0.07"/>
+  <rect x="62" y="50" width="46" height="4" rx="2" fill="#ff111a"/>
+  <text x="128" y="61" class="meta" fill="#8f8f94" font-size="16">DELAEM DIGITAL / FLAGSHIP SOLUTIONS / 04</text>
 
-  <g transform="translate(58 112)">
-    <text x="0" y="0" class="meta" fill="#ff171f" font-size="13">01</text>
-    <text x="0" y="48" class="name" fill="#ffffff" font-size="30">ДЕЛАЕМ ТРАФИК</text>
-    <text x="0" y="84" class="desc" fill="#96969b" font-size="15">CLIENT ACQUISITION</text>
+  <line x1="792" y1="110" x2="792" y2="500" stroke="#ffffff" stroke-opacity="0.08"/>
+  <line x1="62" y1="305" x2="1522" y2="305" stroke="#ffffff" stroke-opacity="0.08"/>
+
+  <g transform="translate(62 145)">
+    <text x="0" y="0" class="meta" fill="#ff171f" font-size="14">01</text>
+    <text x="0" y="66" class="name" fill="#ffffff" font-size="52">ДЕЛАЕМ ТРАФИК</text>
+    <text x="0" y="110" class="desc" fill="#97979c" font-size="18">CLIENT ACQUISITION</text>
   </g>
 
-  <line x1="390" y1="108" x2="390" y2="245" stroke="#ffffff" stroke-opacity="0.08"/>
-
-  <g transform="translate(444 112)">
-    <text x="0" y="0" class="meta" fill="#ff171f" font-size="13">02</text>
-    <text x="0" y="48" class="name" fill="#ffffff" font-size="30">ДЕЛАЕМ ПРОДАЖИ</text>
-    <text x="0" y="84" class="desc" fill="#96969b" font-size="15">SALES + CRM</text>
+  <g transform="translate(850 145)">
+    <text x="0" y="0" class="meta" fill="#ff171f" font-size="14">02</text>
+    <text x="0" y="66" class="name" fill="#ffffff" font-size="52">ДЕЛАЕМ ПРОДАЖИ</text>
+    <text x="0" y="110" class="desc" fill="#97979c" font-size="18">SALES + CRM</text>
   </g>
 
-  <line x1="778" y1="108" x2="778" y2="245" stroke="#ffffff" stroke-opacity="0.08"/>
-
-  <g transform="translate(832 112)">
-    <text x="0" y="0" class="meta" fill="#ff171f" font-size="13">03</text>
-    <text x="0" y="48" class="name" fill="#ffffff" font-size="30">ДЕЛАЕМ СИСТЕМУ</text>
-    <text x="0" y="84" class="desc" fill="#96969b" font-size="15">DIGITAL / IT SYSTEM</text>
+  <g transform="translate(62 365)">
+    <text x="0" y="0" class="meta" fill="#ff171f" font-size="14">03</text>
+    <text x="0" y="66" class="name" fill="#ffffff" font-size="52">ДЕЛАЕМ СИСТЕМУ</text>
+    <text x="0" y="110" class="desc" fill="#97979c" font-size="18">DIGITAL / IT SYSTEM</text>
   </g>
 
-  <line x1="1166" y1="108" x2="1166" y2="245" stroke="#ffffff" stroke-opacity="0.08"/>
-
-  <g transform="translate(1220 112)">
-    <text x="0" y="0" class="meta" fill="#ff171f" font-size="13">04</text>
-    <text x="0" y="48" class="name" fill="#ffffff" font-size="29">СОПРОВОЖДЕНИЕ</text>
-    <text x="0" y="84" class="desc" fill="#96969b" font-size="15">OPERATE + IMPROVE</text>
+  <g transform="translate(850 365)">
+    <text x="0" y="0" class="meta" fill="#ff171f" font-size="14">04</text>
+    <text x="0" y="66" class="name" fill="#ffffff" font-size="52">СОПРОВОЖДЕНИЕ</text>
+    <text x="0" y="110" class="desc" fill="#97979c" font-size="18">OPERATE + IMPROVE</text>
   </g>
 
-  <rect x="58" y="272" width="1468" height="1" fill="#ff171f" opacity="0.34"/>
+  <rect x="62" y="520" width="1460" height="1" fill="#ff171f" opacity="0.34"/>
 </svg>
