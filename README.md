@@ -42,7 +42,19 @@ A complete digital / IT system around the customer journey: website, acquisition
 
 Ongoing ownership after launch: monitoring, optimisation, experiments, new integrations and automations, contractor coordination and a continuous development roadmap.
 
-**The flagship model is built for long-term operating relationships, not isolated one-off deliverables.** We launch the required contour, measure it in production and keep developing it as the business changes.
+---
+
+## Long-term operating model
+
+We are strongest when the relationship continues **after the initial launch**.
+
+A typical engagement moves through four stages:
+
+**Build the acquisition contour → connect sales and CRM → assemble the full digital system → continuously operate and improve it.**
+
+That means the client keeps one accountable digital partner for the whole commercial system instead of coordinating separate website, advertising, CRM, automation and analytics contractors.
+
+**The target format is a long-term operating relationship, not a sequence of disconnected one-off deliverables.**
 
 ---
 
